@@ -1,5 +1,7 @@
 {
   "name": "onesiglocation",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
